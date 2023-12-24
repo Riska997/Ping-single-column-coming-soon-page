@@ -32,7 +32,7 @@ The challenge involves building a Coming Soon page with specific design requirem
    - The project is deployed using [GitHub Pages](https://pages.github.com/).
 
 3. **Running the Project:**
-   - View the live project [here](https://yourusername.github.io/your-repo-name).
+   - View the live project [here](https://riska997.github.io/Ping-single-column-coming-soon-page/).
 
 ## Building Process
 
